@@ -1,4 +1,3 @@
-layout_spectrum: 0.9123281689826399
 typography_spectrum: 0.32119998149573803
 color:
   brandStrength: 0.44210357405245304
@@ -11,5 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+layout_spectrum: 0.9123281689826399
 name: JCVAZQUEZ6
 title: Passionate about People + Tech
+description: Intelligence + Character = True Education
