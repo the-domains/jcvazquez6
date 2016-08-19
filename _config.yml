@@ -12,5 +12,9 @@ color:
     - '#EEEFF7'
 layout_spectrum: 0.9123281689826399
 name: JCVAZQUEZ6
+navigation:
+  - name: Expedited Learning
+    url: www.videorehearser.com
+    type: external
 title: Passionate about People + Tech
 description: Intelligence + Character = True Education
